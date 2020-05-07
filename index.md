@@ -24,7 +24,7 @@ Malaria or malaria is a parasitic pathology due to Plasmodium, transmitted to hu
 
 Even if there are anti-malarial treatments that have led to a dramatic drop in malaria cases, unfortunately we are starting to document cases of resistance to these molecules. In addition, not everyone can benefit from these treatments.
 
-## objective and method
+## Objective and method
 
 Our documentary research project aims to determine the factor responsible for the growth of malaria, our mission was to list and compare prevention methods in the most vulnerable countries, but also to analyze the resources from which these populations benefit, and finally to understand which populations are at risk.
 To complete our study, we compared several texts, some from the general public, others, scientists.
