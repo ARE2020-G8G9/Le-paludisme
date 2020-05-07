@@ -7,7 +7,7 @@ paludisme, l’Anophèle appréciant pondre ses œufs dans l’eau.
 
 Même si il existe des traitements antipaludéens qui ont permis une baisse spectaculaire des cas de paludisme, malheureusement on commence à documenter des cas de résistance à ces molécules. De plus, tout le monde ne peut pas profiter de ces traitements.
 
-#  Objectif
+#  Objectif et méthode 
 
 Notre projet de recherche documentaire vise à déterminer le facteur responsables de la croissance du paludisme, nous avions pour mission de lister et comparer les méthodes de préventions dans les pays les plus vulnérables, mais aussi d’analyser les ressources dont bénéficient ces population, et enfin de comprendre quelle sont les populations à risque.
 Pour mettre à bien notre étude nous avons confronté plusieurs textes, certains grands publics, d’autres, scientifiques.
