@@ -81,6 +81,8 @@ com.accesdistant.sorbonne-universite.fr/science/article/pii/S240567311930090X? ,
 
 **Carte mentale de nos mots-clés,** <a href="https://framindmap.org/mindmaps/index.html#">Framindmap </a> 
 
+file:///Users/saifmuhammad/Downloads/Unknown-2.png
+
  Pour cela:
 1-Cliquez sur "carte mentale".
 2-Puis sur "ouvrir".
