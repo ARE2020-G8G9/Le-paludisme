@@ -79,7 +79,7 @@ p. 964-970, 2007.
 among children in IDPs camp in Edo State, Nigeria », https://www-sciencedirect-
 com.accesdistant.sorbonne-universite.fr/science/article/pii/S240567311930090X? , février 2020.
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
+**Carte mentale de nos mots-clés,** <a href="https://framindmap.org/mindmaps/index.html#">Framindmap </a> 
 
 ## Quelques mots-clés :
 
