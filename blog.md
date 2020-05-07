@@ -1,6 +1,6 @@
 ## Travail effectué 
 
-=> Description hebdomadaire du travail effectué (variez les auteurs !)
+=> Description hebdomadaire du travail effectué 
 
 ### Semaine 1 Creation du site /par Saif MUHAMMAD
 ### Semaine 2 préparation du code /par Mehdi CHIKH 
