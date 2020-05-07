@@ -64,4 +64,4 @@ com.accesdistant.sorbonne-universite.fr/science/article/pii/S240567311930090X? ,
 
 -Paludisme/ Pathologie/ Victimes/ Environnement/ Symptômes/ Transmission/ Conséquences/ Parasite/ Risques/ Solutions/ Régions à risque/ Enfants/ Femmes enceintes/ Contamination humaine/ Importation/ Fièvre/ Vomissement/ Mort/ Animaux/ Être humain/ Moustiques/ Facteurs à risque/ Zone rurale/ Sécheresse/ Afrique subsaharienne/ Asie du sud/ Amérique du sud .
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
+
