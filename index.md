@@ -14,7 +14,18 @@ Pour mettre à bien notre étude nous avons confronté plusieurs textes, certain
 
 ## English version
 
-Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
+## Malaria 
+
+To begin with, we chose the "Malaria" epidemic as the subject of study.
+
+Malaria or malaria is a parasitic pathology due to Plasmodium, transmitted to humans by the bite of a female mosquito, the Anopheles. Once in the blood, the parasite goes to the liver cells to multiply, creating an infection. The latter is responsible for the deaths of over 400,000 people a year. Most of the victims are on the African continent or in deprived tropical areas. More than 60% of the victims of the disease are children. Longer and more intense rainy seasons are usually synonymous with more malaria, as Anopheles likes to lay their eggs in water.
+
+Even if there are anti-malarial treatments that have led to a dramatic drop in malaria cases, unfortunately we are starting to document cases of resistance to these molecules. In addition, not everyone can benefit from these treatments.
+
+## objective and method
+
+Our documentary research project aims to determine the factor responsible for the growth of malaria, our mission was to list and compare prevention methods in the most vulnerable countries, but also to analyze the resources from which these populations benefit, and finally to understand which populations are at risk.
+To complete our study, we compared several texts, some from the general public, others, scientists.
 
 ## Présentation de l'équipe
 
