@@ -28,7 +28,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|--|
-| S.MUHAMMAD| J. AOUCHICHE | M. CHIKH  | A. AISSAOUI  | R.TALBI |
+| S.MUHAMMAD| J. AOUCHICHE | M. CHIKH  | A. AISSAOUI  | R.TAIBI |
 
 
 ## Description synthétique du projet
