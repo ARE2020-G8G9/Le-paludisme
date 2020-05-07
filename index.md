@@ -2,7 +2,23 @@
 
 
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+   D'abord ,pour commencer nous avons choisi l'épidémie du "Paludisme" comme le sujet d'étude  .
+en effet le paludisme ou malaria est une pathologie parasitaire du au Plasmodium, transmis à l’Homme par la piqûre
+d’un moustique femelle, l’Anophèle. Une fois dans le sang, le parasite va dans les cellules du foie
+pour s’y multiplier créant une infection. Cette dernière est responsable de la mort de plus de 400 000
+personnes par an. La plupart des victimes se trouvent sur le continent africain ou dans des zones
+tropicales défavorisées. Plus de 60% des victimes de la maladie sont des enfants. Des saisons des
+pluies plus longues et plus intenses sont généralement synonymes d’augmentation des cas de
+paludisme, l’Anophèle appréciant pondre ses œufs dans l’eau.
+Même si il existe des traitements antipaludéens qui ont permis une baisse spectaculaire des cas de
+paludisme, malheureusement on commence à documenter des cas de résistance à ces molécules. De
+plus, tout le monde ne peut pas profiter de ces traitements.
+#  Objectif
+Notre projet de recherche documentaire vise à déterminer le facteur responsables de la croissance
+du paludisme, nous avons pour mission de lister et comparer les méthodes de préventions dans les
+pays les plus vulnérables, mais aussi d’analyser les ressources dont bénéficient ces population et
+enfin de comprendre quelle sont les populations à risque, pour mettre à bien notre étude nous
+confronterons plusieurs textes, certains grands publics, d’autres, scientifiques.
 
 ## English version
 
