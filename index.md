@@ -80,6 +80,10 @@ among children in IDPs camp in Edo State, Nigeria », https://www-sciencedirect-
 com.accesdistant.sorbonne-universite.fr/science/article/pii/S240567311930090X? , février 2020.
 
 **Carte mentale de nos mots-clés,** <a href="https://framindmap.org/mindmaps/index.html#">Framindmap </a> 
+Pour cela:
+1-Cliquez sur "carte mentale".
+2-Puis sur "ouvrir".
+3-Ensuite normalement vous allez trouver un fichier "paludisme" dont la date est "07/05/2020",cliquez sur lui et vous aurez notre carte mentale avec les mots-clés  .
 
 ## Quelques mots-clés :
 
