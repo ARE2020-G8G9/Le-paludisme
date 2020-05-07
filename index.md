@@ -12,6 +12,8 @@ Même si il existe des traitements antipaludéens qui ont permis une baisse spec
 Notre projet de recherche documentaire vise à déterminer le facteur responsables de la croissance du paludisme, nous avions pour mission de lister et comparer les méthodes de préventions dans les pays les plus vulnérables, mais aussi d’analyser les ressources dont bénéficient ces population, et enfin de comprendre quelle sont les populations à risque.
 Pour mettre à bien notre étude nous avons confronté plusieurs textes, certains grands publics, d’autres, scientifiques.
 
+# Resultats
+
 ## English version
 
 ## Malaria 
@@ -26,6 +28,8 @@ Even if there are anti-malarial treatments that have led to a dramatic drop in m
 
 Our documentary research project aims to determine the factor responsible for the growth of malaria, our mission was to list and compare prevention methods in the most vulnerable countries, but also to analyze the resources from which these populations benefit, and finally to understand which populations are at risk.
 To complete our study, we compared several texts, some from the general public, others, scientists.
+
+## The results
 
 ## Présentation de l'équipe
 
