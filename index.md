@@ -61,7 +61,8 @@ among children in IDPs camp in Edo State, Nigeria », https://www-sciencedirect-
 com.accesdistant.sorbonne-universite.fr/science/article/pii/S240567311930090X? , février 2020.
 
 **Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
-##Quelques mots clés
+
+## Quelques mots-clés :
 
 -Paludisme/ Pathologie/ Victimes/ Environnement/ Symptômes/ Transmission/ Conséquences/ Parasite/ Risques/ Solutions/ Régions à risque/ Enfants/ Femmes enceintes/ Contamination humaine/ Importation/ Fièvre/ Vomissement/ Mort/ Animaux/ Être humain/ Moustiques/ Facteurs à risque/ Zone rurale/ Sécheresse/ Afrique subsaharienne/ Asie du sud/ Amérique du sud .
 
