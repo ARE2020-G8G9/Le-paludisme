@@ -20,7 +20,7 @@ First of all, we have chosen the "Malaria" epidemic as the subject of study.
 
 The Malaria is a parasitic pathology due to Plasmodium, transmitted to humans by the bite of a female mosquito which is the Anopheles. Once in the blood, the parasite goes to the liver cells to multiply creating an infection. This one is responsible for the deaths of over 400,000 people a year. Most of the victims are on the African continent or in deprived tropical areas. More than 60% of the victims due the disease are children. Seasons with intense rainy shows generally the increase of cases due to Anopheles enjoying laying their eggs in water.
 
-Even if there are anti-malarial treatments that have led to a dramatic drop in malaria cases, unfortunately we are starting to document cases of resistance to these molecules. Furthermore, not everyone can benefit these treatments.
+Even if there are anti-malarial treatments that have led to a spectacular drop in malaria cases, unfortunately we are starting to document cases of resistance to these molecules. Furthermore, not everyone can benefit these treatments.
 
 #  Objective and method
 
