@@ -9,7 +9,7 @@ Même si il existe des traitements antipaludéens qui ont permis une baisse spec
 
 #  Objectif et méthode 
 
-Notre projet de recherche documentaire vise à déterminer le facteur responsables de la croissance du paludisme, nous avions pour mission de lister et comparer les méthodes de préventions dans les pays les plus vulnérables, mais aussi d’analyser les ressources dont bénéficient ces population, et enfin de comprendre quelle sont les populations à risque.
+Notre projet de recherche documentaire vise à déterminer le facteur responsables de la croissance du paludisme, nous avions pour mission de lister et comparer les méthodes de préventions dans les pays les plus vulnérables plus precisement dans un pays très touché par cette epidemie qui est le Nigeria un pays subsaharien, mais aussi d’analyser les ressources dont bénéficient ces population, et enfin de comprendre quelle sont les populations à risque.
 Pour mettre à bien notre étude nous avons confronté plusieurs textes, certains grands publics, d’autres sont scientifiques.
 
 ## English version
@@ -24,8 +24,8 @@ Even if there are anti-malarial treatments that have led to a spectacular drop i
 
 #  Objective and method
 
-Our documentary research project aims to determine the factor responsible for the growth of malaria, our purpose was to list and compare the prevention's methods in the most vulnerable countries, but also to analyze the resources benefit by those populations, and finally to understand which populations are at risk.
-To complete our study, we compared several texts, some general audiences, others come from scientists.
+Our documentary research project aims to determine the factor responsible for the growth of malaria, our mission was to list and compare prevention methods in the most vulnerable countries more precisely in a country very affected by this epidemic which is Nigeria a Sub-Saharan country, but also to analyze the resources from which these populations benefit, and finally to understand which populations are at risk.
+To complete our study, we compared several texts, some general audiences, others are scientific.
 
 ## Présentation de l'équipe
 
