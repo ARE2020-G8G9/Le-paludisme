@@ -31,7 +31,7 @@ To complete our study, we compared several texts, some general audiences, others
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|--|
-| S.MUHAMMAD| J. AOUCHICHE | M. CHIKH  | A. AISSAOUI  | R.TALBI |
+| S.MUHAMMAD| J. AOUCHICHE | M. CHIKH  | A. AISSAOUI  | R.TAIBI |
 
 
 ## Description synthétique du projet
