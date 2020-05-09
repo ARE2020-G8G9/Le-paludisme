@@ -9,7 +9,7 @@ Même si il existe des traitements antipaludéens qui ont permis une baisse spec
 
 #  Objectif et méthode 
 
-Notre projet de recherche documentaire vise à déterminer le facteur responsables de la croissance du paludisme, nous avions pour mission de lister et comparer les méthodes de préventions dans les pays les plus vulnérables plus precisement dans un pays très touché par cette epidemie qui est le Nigeria un pays subsaharien, mais aussi d’analyser les ressources dont bénéficient ces population, et enfin de comprendre quelle sont les populations à risque.
+Notre projet de recherche vise à déterminer le facteur responsables de la croissance du paludisme, nous avions pour mission de lister et comparer les méthodes de préventions dans les pays les plus vulnérables plus precisement dans un pays très touché par cette epidemie qui est le Nigeria un pays subsaharien, mais aussi d’analyser les ressources dont bénéficient ces population, et enfin de comprendre quelle sont les populations à risque.
 Pour mettre à bien notre étude nous avons confronté plusieurs textes, certains grands publics, d’autres sont scientifiques.
 
 ## English version
