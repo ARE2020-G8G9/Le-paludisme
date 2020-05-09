@@ -90,7 +90,7 @@ Tracer_temps :
 Trace une courbe du nombre de semaines qu’il a fallu pour que la maladie disparaisse. On répète cela un nombre « répétition » de fois, l’abscisse correspond donc au numéro de l’essai.
 de tracer_mort_guerison_infecte(world):
 Trace le nombre de mort, guéris et infectés en fonction de la semaine.
-## comme ça on a fini d'expliquer la partie "FONCTIONS"
+## comme ça on a fini d'expliquer la partie "FONCTIONS" !!!
 
 ### Semaine 6:
 ### S.MUHAMMAD & J.AOUCHICHE
