@@ -20,9 +20,9 @@ On a supposé que la maladie durait 5 semaines à partir de l’infection.
 ### EXPLICATION DES CONSTANTES :
 n = 99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée)
 
-nb_initial_contaminé = 15
+nb_initial_contaminé = 20
 
-pourcent_contamination = 5
+pourcent_contamination = 50
 Au Nigeria, il y a 42% d’enfants entre 0 et 14 ans, 58 % d’adultes. On suppose qu’il y a autant d’hommes que de femmes. Donc on obtient ,29% de femmes et 29% d’hommes.
 Pour trouver le nombre d’enfants, on va supposer qu’il y a autant d’enfant de 0 à 1 an que d’enfants de 1 à 2ans que de 2 à 3 ans…
 On arrive à un 15% pour les enfants de moins de 5 ans. ((42 / 14) * 5). Donc il reste 27% d’enfants de plus de 5 ans.
