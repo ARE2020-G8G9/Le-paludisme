@@ -2,8 +2,10 @@
 
 Dans l'optique d'étude d'un modèle dynamique, celle des épidémies nous semblais attrayant étant donné le contexte exacerber actuel. Nous évitions donc l'idée de prendre comme sujet d'étude celui du coronavirus étant donné de l'abscence de données. Nous nous sommes donc tournés vers des épidémies encore d'actulalité mais avec des informations précises, alors l'idée de prendre comme thème le paludisme dans le cadre de la transmission du virus nous semblait convenable.  
 
+
 Le paludisme ou malaria est une pathologie parasitaire du au Plasmodium, transmis à l’Homme par la piqûre d’un moustique femelle, l’Anophèle. Une fois dans le sang, le parasite va dans les cellules du foie pour s’y multiplier créant une infection. Cette dernière est responsable de la mort de plus de 400 000 personnes par an. La plupart des victimes se trouvent sur le continent africain ou dans des zones tropicales défavorisées. Plus de 60% des victimes de la maladie sont des enfants. Des saisons des pluies plus longues et plus intenses sont généralement synonymes d’augmentation des cas de
 paludisme, l’Anophèle appréciant pondre ses œufs dans l’eau.
+
 
 Même si il existe des traitements antipaludéens qui ont permis une baisse spectaculaire des cas de paludisme, malheureusement on commence à documenter des cas de résistance à ces molécules. De plus, tout le monde ne peut pas profiter de ces traitements.
 
@@ -16,9 +18,11 @@ Pour mettre à bien notre étude nous avons confronté plusieurs textes, certain
 
 # The malaria
 
-First of all, we have chosen the "Malaria" epidemic as the subject of study.
+In order to study a dynamic model, the epidemics ones seems attractive to us because of the current context. Therefore we avoided the idea of taking the coronavirus as a subject of study due the lack of data. We turned to epidemics that are still topical but with precise information, so the idea of taking malaria as a theme in the context of transmission seemed appropriate to us.
+
 
 The Malaria is a parasitic pathology due to Plasmodium, transmitted to humans by the bite of a female mosquito which is the Anopheles. Once in the blood, the parasite goes to the liver cells to multiply creating an infection. This one is responsible for the deaths of over 400,000 people a year. Most of the victims are on the African continent or in deprived tropical areas. More than 60% of the victims due the disease are children. Seasons with intense rainy shows generally the increase of cases due to Anopheles enjoying laying their eggs in water.
+
 
 Even if there are anti-malarial treatments that have led to a spectacular drop in malaria cases, unfortunately we are starting to document cases of resistance to these molecules. Furthermore, not everyone can benefit these treatments.
 
