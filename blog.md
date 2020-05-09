@@ -1,7 +1,8 @@
 ## Travail effectué 
 
 => Description hebdomadaire du travail effectué 
-    Tout d'abord ,avant de commencer à décrire notre travail hebdomadaire ,il faut savoir que vu qu'on est un groupe un peu chargé qui constitue 5 personnes ,on a décidé de diviser les taches entres nous afin que chacun puisse faire sa part et parfois même nous sommes obligé de vous décrire une tache faite à deux  voire même 3,pour cela notre projet a pris à peu près 6 semaines de travail.
+
+Tout d'abord ,avant de commencer à décrire notre travail hebdomadaire ,il faut savoir que vu qu'on est un groupe un peu chargé qui constitue 5 personnes ,on a décidé de diviser les taches entres nous afin que chacun puisse faire sa part et parfois même nous sommes obligé de vous décrire une tache faite à deux  voire même 3,pour cela notre projet a pris à peu près 6 semaines de travail.
                                                                                                      #### J.AOUCHICHE 
 ### Semaine 1 
 #### J.AOUCHICHE
