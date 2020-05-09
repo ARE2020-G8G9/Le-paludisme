@@ -1,6 +1,6 @@
 # Le paludisme
 
-Pour commencer nous avons choisi l'épidémie du "Paludisme" comme sujet d'étude  .
+Dans l'optique d'étude d'un modèle dynamique, celle des épidémies nous semblais attrayant étant donné le contexte exacerber actuel. Nous évitions donc l'idée de prendre comme sujet d'étude celui du coronavirus étant donné de l'abscence de données. Nous nous sommes donc tournés vers des épidémies encore d'actulalité mais avec des informations précises, alors l'idée de prendre comme thème le paludisme dans le cadre de la transmission du virus nous semblait convenable.  
 
 Le paludisme ou malaria est une pathologie parasitaire du au Plasmodium, transmis à l’Homme par la piqûre d’un moustique femelle, l’Anophèle. Une fois dans le sang, le parasite va dans les cellules du foie pour s’y multiplier créant une infection. Cette dernière est responsable de la mort de plus de 400 000 personnes par an. La plupart des victimes se trouvent sur le continent africain ou dans des zones tropicales défavorisées. Plus de 60% des victimes de la maladie sont des enfants. Des saisons des pluies plus longues et plus intenses sont généralement synonymes d’augmentation des cas de
 paludisme, l’Anophèle appréciant pondre ses œufs dans l’eau.
