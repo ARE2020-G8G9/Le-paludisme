@@ -15,7 +15,7 @@ Pour commencer comme il se doit le projet, je me devais de créer le site; mais 
 
 ### Semaine 3  Partie variables & constantes
 #### A.AISSAOUI & R.TAIBI
-Après que 2 semaines sont passées ,nous avons décider moi Alexandre et Ramy de nous focaliser sur le code qu'il faut pour notre projet ,et au meme temps nous avons commencer le carnet de bord et lla recherche bibliographique les deux à l'aide aussi des autres memeeebres du groupe ,et comme prévu on a essayé de chercher sur internet les différentes constantes et variables que nous trouvions essentielles et importantes pour nos fonctions ,et nous allons maintenant expliquer cette partie :
+Après que 2 semaines sont passées ,nous avons décider moi Alexandre et Ramy de nous focaliser sur le code qu'il faut pour notre projet (la simulation du code concerne le Nigeria),et au meme temps nous avons commencer le carnet de bord et lla recherche bibliographique les deux à l'aide aussi des autres memeeebres du groupe ,et comme prévu on a essayé de chercher sur internet les différentes constantes et variables que nous trouvions essentielles et importantes pour nos fonctions ,et nous allons maintenant expliquer cette partie :
 On a supposé que la maladie durait 5 semaines à partir de l’infection.
 ### EXPLICATION DES CONSTANTES :
 n = 99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée)
