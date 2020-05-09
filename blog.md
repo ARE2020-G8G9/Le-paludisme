@@ -15,15 +15,19 @@ Pour commencer comme il se doit le projet, je me devais de créer le site; mais 
 
 ### Semaine 3  Partie variables & constantes
 #### A.AISSAOUI & R.TAIBI
-Après que 2 semaines sont passées ,nous avons décider moi Alexandre et Ramy de nous focaliser sur le code qu'il faut pour notre projet (la simulation du code concerne le Nigeria),et au meme temps nous avons commencer le carnet de bord et lla recherche bibliographique les deux à l'aide aussi des autres memeeebres du groupe ,et comme prévu on a essayé de chercher sur internet les différentes constantes et variables que nous trouvions essentielles et importantes pour nos fonctions ,et nous allons maintenant expliquer cette partie :
+Après que 2 semaines sont passées ,nous avons décider moi Alexandre et Ramy de nous focaliser sur le code qu'il faut pour notre projet (la simulation du code concerne le Nigeria). 
+En même temps nous avions commencer le carnet de bord et la recherche bibliographique, les deux à l'aide des autres membres du groupe ,et comme prévu on a essayé de chercher sur internet les différentes constantes et variables que nous trouvions essentielles et importantes pour nos fonctions ,et nous allons maintenant expliquer cette partie :
+
 On a supposé que la maladie durait 5 semaines à partir de l’infection.
 ### EXPLICATION DES CONSTANTES :
-n = 99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée)
+n = 99 #n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée)
 
 nb_initial_contaminé = 20
 
 pourcent_contamination = 50
-Au Nigeria, il y a 42% d’enfants entre 0 et 14 ans, 58 % d’adultes. On suppose qu’il y a autant d’hommes que de femmes. Donc on obtient ,29% de femmes et 29% d’hommes.
+
+Au Nigeria, il y a 42% d’enfants entre 0 et 14 ans, 58 % d’adultes. On suppose qu’il y a autant d’hommes que de femmes. 
+Donc on obtient ,29% de femmes et 29% d’hommes.
 Pour trouver le nombre d’enfants, on va supposer qu’il y a autant d’enfant de 0 à 1 an que d’enfants de 1 à 2ans que de 2 à 3 ans…
 On arrive à un 15% pour les enfants de moins de 5 ans. ((42 / 14) * 5). Donc il reste 27% d’enfants de plus de 5 ans.
 nb_enfant_moins5ans = 15
