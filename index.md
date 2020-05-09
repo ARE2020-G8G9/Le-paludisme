@@ -36,15 +36,21 @@ To complete our study, we compared several texts, some general audiences, others
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** Comment se propage le paludisme ?
+Quelles sont les sous-populations les plus à risque au nigeria et quels sont les facteurs qui provoquent la croissance de transmission ?
 
-**Hypothèse principale :**
+**Hypothèse principale :** Les méthodes de prévention ne sont pas fournies par l'etat et/ou les populations ne disposent pas des ressources nécessaires pour en bénéficier .
+Le moustique est de plus en plus résistant au anciennes méthodes antipaludéennes (pesticides antibiotique anciennes génération)
 
-**Hypothèses secondaires :** 
+**Hypothèses secondaires :** La transmission par voie placentaire est la plus répandue, une baisse donc de fécondité au Nigeria pendant un moment ferait diminuer considérablement les cas de paludisme au pays
 
-**Objectifs :**
+**Objectifs :** Classer puis déterminer les sous-populations les plus vulnérables au nigeria par taux de contamination et taux de décès au fil du temps.
+Puis établir la durée d'éradication par simulation et estimer le nombre de décès, de guérisons  et de contaminations.
 
-**Critère(s) d'évaluation :**
+**Critère(s) d'évaluation :** -  Faire varier les sous populations, en entrée de la simulation, pour déterminer laquelle est la plus vulnérable.
+-Les sous populations choisies: femmes,femmes enceintes,enfants <5ans et >5 ans et hommes
+- Prendre en compte les outils de ralentissement de la transmission et voir leur incidence sur l’évolution de cette dernière. 
+
 
 ## Présentation structurée des résultats
 
