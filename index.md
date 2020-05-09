@@ -49,6 +49,9 @@ Puis établir la durée d'éradication par simulation et estimer le nombre de d�
 
 **Critère(s) d'évaluation :** -  Faire varier les sous populations, en entrée de la simulation, pour déterminer laquelle est la plus vulnérable.
 -Les sous populations choisies: femmes,femmes enceintes,enfants <5ans et >5 ans et hommes
+
+![](image/donnée.png)
+
 - Prendre en compte les outils de ralentissement de la transmission et voir leur incidence sur l’évolution de cette dernière. 
 
 
