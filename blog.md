@@ -30,15 +30,15 @@ Au Nigeria, il y a 42% d’enfants entre 0 et 14 ans, 58 % d’adultes. On suppo
 Pour trouver le nombre d’enfants, on va supposer qu’il y a autant d’enfants de 0 à 1 an que d’enfants de 1 à 2ans que de 2 à 3 ans…
 On arrive à un 15% pour les enfants de moins de 5 ans. ((42 / 14) * 5). Donc il reste 27% d’enfants de plus de 5 ans.
 
-nb_enfant_moins5ans = 15
+nb_enfant_moins5ans = 25
 
-nb_enfant_plus5ans = 27
+nb_enfant_plus5ans = 46
 
-nb_hommes = 29
+nb_hommes = 14
 
-nb_femmes = 20
+nb_femmes = 9
 
-nb_femmes_enceinte = 29
+nb_femmes_enceinte = 5
 
 Pour les femmes enceintes, le mieux que nous avions pu faire c’est trouver plusieurs sources sur le taux de fécondité au Nigeria: en moyenne entre 5 et 6 enfants par femmes au Nigeria donc ça nous paraît pas énorme de dire que 50 % des femmes (entre 15 et 45 ans donc a peu près 0.5 * 20-25% de la population) au Nigeria sont enceintes.
 
