@@ -133,7 +133,7 @@ Trace le nombre de mort, guéris et infectés en fonction de la semaine.
 ### Semaine 6:
 ### S.MUHAMMAD & J.AOUCHICHE
 Pour cette semaine nous avons rempli le site, plus exactement la partie présentation du projet qui est "paludisme".
-De plus nous nous devions de suivre d'autres tutoriel que celle fournie par le professeur, afin de pouvoir ajouter des iamges plus tard pour notre site, ce qui semble être simple mais nous a pris une grosse heure juste pour la compréhension de la procédure à effectuer.
+De plus nous nous devions de suivre d'autres tutoriel que celle fournie par le professeur, afin de pouvoir ajouter des images plus tard pour notre site, ce qui semble être simple mais nous a pris une grosse heure juste pour la compréhension de la procédure à effectuer.
 
 ### R.TAIBI & A.AISSAOUI
 Nous avons rempli la partie bibliographie du site, et nous avons aussi dessiner la carte mentale composer de nos mots_clés qui nous ont permis d'effectuer nos recherches et d'avoir toutes les informations nécessaires.
