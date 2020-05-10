@@ -53,7 +53,7 @@ pourcent_moins5ans_décès = 65
 
 
 Pour taux de contamination :59 cas de paludisme pour 1000 personnes exposées (parmi les pays touchés dans le monde) (OMS) = 0.059 % de contamination (c’est 5x (4,86 plutôt) plus élevé au Nigeria… 0.059*190 000 000 = 11 269 000 cas théoriques contre (1) )
-61% de décès d’enfants de moins de 5 ans ( les plus vulnérables et exposés aux moustiques et les plus touchés) dans le monde (OMS: 266 000 / 435 000 ) => raccourci: 61% des décès au Nigeria sont des enfants -5 ans (au moins, c’est le pays le plus touché!) 
+61% de décès d’enfants de moins de 5 ans ( les plus vulnérables et exposés aux moustiques et les plus touchés) dans le monde (OMS: 266 000 / 435 000 ) => raccourci: 61% des décès au Nigeria sont des enfants de moins de 5 ans (c’est le pays le plus touché!) 
 
 nb_enfant_plus5ans = 46
 
@@ -81,7 +81,7 @@ Comme on le voit cette partie regroupe 3 membres qui nous a sembler plus dure pa
 ### EXPLICATION DES FONCTIONS:
 
 Init_contamine:
-En fonction du pourcentage du nombre initial de contamination, la fonction retourne ‘i’ si l’individu est infecté, ‘’ sinon. EXEMPLE : si le nombre initial de contamination est de 20, si le chiffre choisis au hasard est entre 1 et 20, il est contaminé, sinon il ne l’est pas. Comme cela, on obtient bien 20% de chance de contamination.
+En fonction du pourcentage du nombre initial de contamination, la fonction retourne ‘i’ si l’individu est infecté, ‘’ sinon rien du tout. EXEMPLE : si le nombre initial de contamination est de 20, si le chiffre choisis au hasard est entre 1 et 20, il est contaminé, sinon il ne l’est pas. Comme cela, on obtient bien 20% de chance de contamination.
 
 Init_individus : 
 Avec la même méthode que précédemment, on choisit l’individu au hasard en fonction des variables initialisées au début.
