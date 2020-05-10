@@ -67,7 +67,7 @@ Chaque individu de la matrice sera un tuple (1-type individus (homme, femme…),
 Le programme va tout d’abord initialiser la matrice en complétant les types d’individus de la matrice vide en fonction des pourcentages de chaque individu (constantes).  Il initialise également l’état de l’individu (infecté ou non) en fonction du pourcentage de contamination mis en constante.
 Ensuite, en s’inspirant du modèle de schelling, le programme parcourt la matrice en mettant à jour l’état du malade : si l’individu devient infecté, si l’individu déjà infecté meurt ou guéri ou infecte ses voisins  et met à jour les nombres de semaine de l’individu infecté.  
 Le programme s’arrête lorsque qu’il ne reste plus aucuns individus infectés.
-(VOIR L'EXPLICATION DETAILLEE DES FONCTIONS DANS L'AUTRE PARTIE DU PROGRAMME)
+(VOIR L'EXPLICATION DETAILLEE DES FONCTIONS DANS L'AUTRE PARTIE DU PROGRAMME LA PARTIE DU TRAVAIL HEBDOMADAIRE EFFECTUE)
 Critique : Les personnes âgées étant minoritaires, nous les avons omis de programme. Cela reste un défaut car cette population a une mortalité importante et pourrait influencer les résultats.
 La fonction voisin reste primaire. Elle ne prend en compte que les voisins situés à une case près. Mais une population est toujours en mouvement, donc l’individu situé à la case [0,0] pourrait très bien contaminer la case [99,99]. Cela n’est pas pris en compte dans notre programme.
 Dans la fonction mortalité. On émet l’hypothèse que la chance de mortalité vautre pourcentage de la mortalité/ le nombre de semaines. Ce chiffre est erroné mais il reste bien représentatif de la chute du pourcentage de décès en fonction du temps. 
