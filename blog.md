@@ -26,22 +26,29 @@ nb_initial_contaminé = 20
 
 pourcent_contamination = 50
 
-Au Nigeria, il y a 42% d’enfants entre 0 et 14 ans, 58 % d’adultes. On suppose qu’il y a autant d’hommes que de femmes. 
-Donc on obtient ,29% de femmes et 29% d’hommes.
+Au Nigeria, il y a 42% d’enfants entre 0 et 14 ans, 58 % d’adultes. On suppose qu’il y a autant d’hommes que de femmes. Donc on obtient ,29% de femmes et 29% d’hommes.
 Pour trouver le nombre d’enfants, on va supposer qu’il y a autant d’enfants de 0 à 1 an que d’enfants de 1 à 2ans que de 2 à 3 ans…
 On arrive à un 15% pour les enfants de moins de 5 ans. ((42 / 14) * 5). Donc il reste 27% d’enfants de plus de 5 ans.
+
 nb_enfant_moins5ans = 15
+
 nb_enfant_plus5ans = 27
+
 nb_hommes = 29
+
 nb_femmes = 20
+
 nb_femmes_enceinte = 29
+
 Pour les femmes enceintes, le mieux que nous avions pu faire c’est trouver plusieurs sources sur le taux de fécondité au Nigeria: en moyenne entre 5 et 6 enfants par femmes au Nigeria donc ça nous paraît pas énorme de dire que 50 % des femmes (entre 15 et 45 ans donc a peu près 0.5 * 20-25% de la population) au Nigeria sont enceintes.
+
 pourcent_moins5ans_décès = 65
 (Tous les chiffres sont de 2017) : 219 000 000 cas dans le monde , 435000 morts dues au paludisme dans le monde. (OMS)
 25% des cas au Nigeria (OMS) => 0.25*219000000 = 54 750 000 cas au Nigeria (1)
 19% de ces morts au Nigeria (OMS)  => 0.19 * 435000 = 82650 morts au Nigeria.  
 Pour taux de contamination :59 cas de paludisme pour 1000 personnes exposées (parmi les pays touchés dans le monde) (OMS) = 0.059 % de contamination (c’est 5x (4,86 plutôt) plus élevé au Nigeria… 0.059*190 000 000 = 11 269 000 cas théoriques contre (1) )
 61% de décès d’enfants de moins de 5 ans ( les plus vulnérables et exposés aux moustiques et les plus touchés) dans le monde (OMS: 266 000 / 435 000 ) => raccourci: 61% des décès au Nigeria sont des enfants -5 ans (au moins, c’est le pays le plus touché!) 
+
 nb_enfant_plus5ans = 46
 pourcent_plus5ans_décès = 45
 
