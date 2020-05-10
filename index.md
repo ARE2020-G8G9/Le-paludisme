@@ -76,7 +76,12 @@ Nous allons montrer la différence entre 2 simulations qui ont une constantes nb
  
  SIMULATION 1 (à 80%) :
  
+![](image/paludismeUn.png)
+
+ 
  SIMULATION 2 (à 20%) :
+ 
+ ![](image/paludismeUnDeux.png)
  
  On peut remarquer qu’il y a deux fois moins de mort entre les deux simulations. Cela montre que avant l’infection des moustiques, les moyens mis en œuvres afin d’empêcher leur piqûre diminue significativement l’impact du paludisme.
 _____________________________________________________________________________________________________________________________
@@ -85,7 +90,11 @@ On laissera la constante nb_initial_contamine à 20% afin qu’il ne fausse pas 
 
 Simulation 1 (à 80 %) :
 
+![](image/paludismeDeux.png)
+
 Simulation 2 (à 20%) :
+
+![](image/paludismeDeuxDeux.png)
 
 On peut voir qu’il y a une différence d’à peu près 1800 morts entre les deux simulations. Ceci est dû au taux d’infection bas, la maladie se propage moins, donc cela crée une différence de morts.
 _____________________________________________________________________________________________________________________________
