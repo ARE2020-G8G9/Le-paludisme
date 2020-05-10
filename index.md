@@ -62,14 +62,20 @@ Puis établir la durée d'éradication par simulation et estimer le nombre de d�
 ## Présentation structurée des résultats
 
 Pour modéliser notre exemple de paludisme au Nigeria, nous avons décidé de générer une matrice carré de taille (n+1) * (n+1). La variable n sera est initialisée en début de programme. Afin d’avoir un échantillon convenable, nous avons opté pour une matrice de 100*100 (donc n = 99).
+
 Les populations prise en compte seront les hommes, femmes, femmes enceintes, enfant de plus de 5 ans et enfant de -5 ans. Les individus les plus en danger face au paludisme sont les femmes enceintes et les enfants de -5ans. Les chances de décès la première semaine après avoir été infectés seront mises au début du programme comme constantes. Elles diminueront en fonction des semaines passées.
 Chaque individu de la matrice sera un tuple (1-type individus (homme, femme…), 2-état de l’individu (infecté, guéri, vide si il n’a rien), 3- le nombre de semaines où il aura été infecté (si il est infecté bien entendu).
+
 Le programme va tout d’abord initialiser la matrice en complétant les types d’individus de la matrice vide en fonction des pourcentages de chaque individu (constantes).  Il initialise également l’état de l’individu (infecté ou non) en fonction du pourcentage de contamination mis en constante.
 Ensuite, en s’inspirant du modèle de schelling, le programme parcourt la matrice en mettant à jour l’état du malade : si l’individu devient infecté, si l’individu déjà infecté meurt ou guéri ou infecte ses voisins  et met à jour les nombres de semaine de l’individu infecté.  
+
 Le programme s’arrête lorsque qu’il ne reste plus aucuns individus infectés.
 (VOIR L'EXPLICATION DETAILLEE DES FONCTIONS DANS L'AUTRE PARTIE DU PROGRAMME LA PARTIE DU TRAVAIL HEBDOMADAIRE EFFECTUE)
+
 Critique : Les personnes âgées étant minoritaires, nous les avons omis de programme. Cela reste un défaut car cette population a une mortalité importante et pourrait influencer les résultats.
+
 La fonction voisin reste primaire. Elle ne prend en compte que les voisins situés à une case près. Mais une population est toujours en mouvement, donc l’individu situé à la case [0,0] pourrait très bien contaminer la case [99,99]. Cela n’est pas pris en compte dans notre programme.
+
 Dans la fonction mortalité. On émet l’hypothèse que la chance de mortalité vautre pourcentage de la mortalité/ le nombre de semaines. Ce chiffre est erroné mais il reste bien représentatif de la chute du pourcentage de décès en fonction du temps. 
 
 Nous allons montrer la différence entre 2 simulations qui ont une constantes nb_initial_contamine différente. Ce chiffre qui peut diminuer par l’usage de moustiquaires par exemple. La première simulation aura cette constante à 80%, la suivante à 20% (nous laisserons la constantes pourcent_contamination à 40% afin qu’ (il n’influence pas les courbes) .
