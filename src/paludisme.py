@@ -1,6 +1,6 @@
 from random import randrange
 from numpy import array
-
+# Les chiffres ne sont pas exacts
 n = 99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée)
 
 nb_initial_contamine = 20
@@ -21,6 +21,8 @@ pourcent_femmes_deces = 35
 
 nb_femmes_enceinte = 5
 pourcent_femmes_enceintes_deces = 65
+
+#pour les femmes enceintes, le mieux qu'on a pu faire c’est de trouver plusieurs sources sur le taux de fécondité au Nigeria: en moyenne entre 5 et 6 enfants par femmes au Nigeria donc ca me paraît pas gros de dire que 50 % des femmes (entre 15 et 45 ans donc a peu près 0.5 * 20-25% de la population) au Nigeria sont enceintes.
 
 def init_contamine(contamine):
     a = randrange(1,99)
