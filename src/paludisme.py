@@ -1,6 +1,6 @@
 from random import randrange
 from numpy import array
-#TOUS CES CONSTANTES SONT EN POURCENT
+
 n = 99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée)
 
 nb_initial_contamine = 20
@@ -10,13 +10,13 @@ pourcent_contamination = 50
 nb_enfant_moins5ans = 15
 pourcent_moins5ans_deces = 65
 
-nb_enfant_plus5ans = 27
+nb_enfant_plus5ans = 46
 pourcent_plus5ans_deces = 45
 
-nb_hommes = 29
+nb_hommes = 14
 pourcent_hommes_deces = 35
 
-nb_femmes = 20
+nb_femmes = 9
 pourcent_femmes_deces = 35
 
 nb_femmes_enceinte = 29
