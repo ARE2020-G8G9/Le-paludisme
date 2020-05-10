@@ -72,7 +72,7 @@ Critique : Les personnes âgées étant minoritaires, nous les avons omis de pr
 La fonction voisin reste primaire. Elle ne prend en compte que les voisins situés à une case près. Mais une population est toujours en mouvement, donc l’individu situé à la case [0,0] pourrait très bien contaminer la case [99,99]. Cela n’est pas pris en compte dans notre programme.
 Dans la fonction mortalité. On émet l’hypothèse que la chance de mortalité vautre pourcentage de la mortalité/ le nombre de semaines. Ce chiffre est erroné mais il reste bien représentatif de la chute du pourcentage de décès en fonction du temps. 
 _____________________________________________________________________________________________________________________________
-Nous allons montrer la différence entre 2 simulations qui ont une constantes nb_initial_contamine différente. Ce chiffre qui peut diminuer par l’usage de moustiquaires par exemple. La première simulation aura cette constante à 80%, la suivante à 20% (nous laisserons la constantes pourcent_contamination à 40% afin qu’ (il n’influence pas les courbes) :
+Nous allons montrer la différence entre 2 simulations qui ont une constantes nb_initial_contamine différente. Ce chiffre qui peut diminuer par l’usage de moustiquaires par exemple. La première simulation aura cette constante à 80%, la suivante à 20% (nous laisserons la constantes pourcent_contamination à 40% afin qu’ (il n’influence pas les courbes) .
  
  SIMULATION 1 (à 80%) :
  
