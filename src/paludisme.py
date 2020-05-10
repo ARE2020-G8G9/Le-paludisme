@@ -19,7 +19,7 @@ pourcent_hommes_deces = 35
 nb_femmes = 9
 pourcent_femmes_deces = 35
 
-nb_femmes_enceinte = 29
+nb_femmes_enceinte = 5
 pourcent_femmes_enceintes_deces = 65
 
 def init_contamine(contamine):
