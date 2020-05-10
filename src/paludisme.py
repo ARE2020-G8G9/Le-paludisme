@@ -7,19 +7,19 @@ nb_initial_contamine = 20
 
 pourcent_contamination = 50
 
-nb_enfant_moins5ans = 25
+nb_enfant_moins5ans = 15
 pourcent_moins5ans_deces = 65
 
-nb_enfant_plus5ans = 46
+nb_enfant_plus5ans = 27
 pourcent_plus5ans_deces = 45
 
-nb_hommes = 14
+nb_hommes = 29
 pourcent_hommes_deces = 35
 
-nb_femmes = 9
+nb_femmes = 20
 pourcent_femmes_deces = 35
 
-nb_femmes_enceinte = 5
+nb_femmes_enceinte = 29
 pourcent_femmes_enceintes_deces = 65
 
 def init_contamine(contamine):
