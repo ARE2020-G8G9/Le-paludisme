@@ -33,37 +33,34 @@ Pour taux de contamination :59 cas de paludisme pour 1000 personnes exposées (
 61% de décès d’enfants de moins de 5 ans ( les plus vulnérables et exposés aux moustiques et les plus touchés) dans le monde (OMS: 266 000 / 435 000 ) => raccourci: 61% des décès au Nigeria sont des enfants -5 ans (au moins, c’est le pays le plus touché!) 
 
 nb_initial_contamine = 20
-
 pourcent_contamination = 25
 
 
 
 nb_enfant_moins5ans = 15
-
 pourcent_moins5ans_deces = 61
 
 
 
 nb_enfant_plus5ans = 27
-
 pourcent_plus5ans_deces = 65
 
 
 
-nb_hommes = 29
 
+nb_hommes = 29
 pourcent_hommes_deces = 35
 
 
 
-nb_femmes = 29
 
+nb_femmes = 29
 pourcent_femmes_deces = 50
 
 
 
-nb_femmes_enceinte = 50
 
+nb_femmes_enceinte = 50
 pourcent_femmes_enceintes_deces = 40
 
 ### Semaine 4
