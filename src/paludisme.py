@@ -1,26 +1,26 @@
 from random import randrange
 from numpy import array
-# Les chiffres ne sont pas exacts
+# Tous les nombres qu'on va citer sont en pourcentage (%)
 n = 99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée)
 
 nb_initial_contamine = 20
 
-pourcent_contamination = 50
+pourcent_contamination = 25
 
 nb_enfant_moins5ans = 15
-pourcent_moins5ans_deces = 65
+pourcent_moins5ans_deces = 61
 
-nb_enfant_plus5ans = 46
-pourcent_plus5ans_deces = 45
+nb_enfant_plus5ans = 27
+pourcent_plus5ans_deces = 65
 
-nb_hommes = 14
+nb_hommes = 29
 pourcent_hommes_deces = 35
 
-nb_femmes = 9
-pourcent_femmes_deces = 35
+nb_femmes = 29
+pourcent_femmes_deces = 50
 
-nb_femmes_enceinte = 5
-pourcent_femmes_enceintes_deces = 65
+nb_femmes_enceinte = 50
+pourcent_femmes_enceintes_deces = 40
 
 #pour les femmes enceintes, le mieux qu'on a pu faire c’est de trouver plusieurs sources sur le taux de fécondité au Nigeria: en moyenne entre 5 et 6 enfants par femmes au Nigeria donc ca me paraît pas gros de dire que 50 % des femmes (entre 15 et 45 ans donc a peu près 0.5 * 20-25% de la population) au Nigeria sont enceintes.
 
