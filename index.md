@@ -33,7 +33,7 @@ To complete our study, we compared several texts, some general audiences, others
 
 ## Présentation de l'équipe
 
-|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |ᕕ( ᐛ )ᕗ |
+|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ | (^u^) |
 |-----|--|--|--|--|
 | S.MUHAMMAD| J. AOUCHICHE | M. CHIKH  | A. AISSAOUI  | R.TAIBI |
 
@@ -60,6 +60,8 @@ Puis établir la durée d'éradication par simulation et estimer le nombre de d�
 
 
 ## Présentation structurée des résultats
+
+### lien vers le code python: https://github.com/ARE2020-G8G9/Le-paludisme/blob/master/src/paludisme.py
 
 Pour modéliser notre exemple de paludisme au Nigeria, nous avons décidé de générer une matrice carré de taille (n+1) * (n+1). La variable n sera est initialisée en début de programme. Afin d’avoir un échantillon convenable, nous avons opté pour une matrice de 100*100 (donc n = 99).
 
