@@ -73,7 +73,8 @@ La fonction voisin reste primaire. Elle ne prend en compte que les voisins situ�
 Dans la fonction mortalité. On émet l’hypothèse que la chance de mortalité vautre pourcentage de la mortalité/ le nombre de semaines. Ce chiffre est erroné mais il reste bien représentatif de la chute du pourcentage de décès en fonction du temps. 
 _____________________________________________________________________________________________________________________________
 Nous allons montrer la différence entre 2 simulations qui ont une constantes nb_initial_contamine différente. Ce chiffre qui peut diminuer par l’usage de moustiquaires par exemple. La première simulation aura cette constante à 80%, la suivante à 20% (nous laisserons la constantes pourcent_contamination à 40% afin qu’ (il n’influence pas les courbes) :
- SIMULATION 1 (à 80%) :
+ 
+ SIMULATION 1 (à 80%) :
  
  SIMULATION 2 (à 20%) :
  
@@ -81,6 +82,7 @@ Nous allons montrer la différence entre 2 simulations qui ont une constantes nb
   ___________________________________________________________________________________________________________________________
 Nous allons montrer la différence entre 2 simulations qui ont une constantes pourcent_contamination différente. Ce chiffre qui peut diminuer par les précautions mis en place pour éviter aux habitants de transmettre la maladie. Cela diminue donc le taux de contamination.
 On laissera la constante nb_initial_contamine à 20% afin qu’il ne fausse pas la courbe.
+
 Simulation 1 (à 80 %) :
 
 Simulation 2 (à 20%) :
