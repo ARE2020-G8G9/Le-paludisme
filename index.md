@@ -80,7 +80,8 @@ Dans la fonction mortalité. On émet l’hypothèse que la chance de mortalité
 
 Nous allons montrer la différence entre 2 simulations qui ont une constantes nb_initial_contamine différente. Ce chiffre qui peut diminuer par l’usage de moustiquaires par exemple. La première simulation aura cette constante à 80%, la suivante à 20% (nous laisserons la constantes pourcent_contamination à 40% afin qu’ (il n’influence pas les courbes) .
  
- SIMULATION 1 (à 80%) :
+
+SIMULATION 1 (à 80%) :
  
 ![](image/paludismeUn.png)
 
