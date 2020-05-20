@@ -16,10 +16,10 @@ pourcent_plus5ans_deces = 65
 nb_hommes = 29
 pourcent_hommes_deces = 35
 
-nb_femmes = 29
+nb_femmes = 14.9
 pourcent_femmes_deces = 50
 
-nb_femmes_enceinte = 50
+nb_femmes_enceinte = 14.9
 pourcent_femmes_enceintes_deces = 40
 
 #pour les femmes enceintes, le mieux qu'on a pu faire c’est de trouver plusieurs sources sur le taux de fécondité au Nigeria: en moyenne entre 5 et 6 enfants par femmes au Nigeria donc ca me paraît pas gros de dire que 50 % des femmes (entre 15 et 45 ans donc a peu près 0.5 * 20-25% de la population) au Nigeria sont enceintes.
