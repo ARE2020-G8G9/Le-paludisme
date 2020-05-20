@@ -59,14 +59,14 @@ pourcent_hommes_deces = 35
 
 
 
-nb_femmes = 29
+nb_femmes = 14.5
 
 pourcent_femmes_deces = 50
 
 
 
 
-nb_femmes_enceinte = 50
+nb_femmes_enceinte = 14.9
 
 pourcent_femmes_enceintes_deces = 40
 
