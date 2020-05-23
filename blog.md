@@ -140,6 +140,6 @@ Nous avons rempli la partie bibliographie du site, et nous avons aussi dessiner 
 J'ai rempli la fiche synthétique tout en respectant le rendu qu'on nous a remis et j'ai fais la partie résultats et l’analyse critique.
 
 
-# THE END 
+
 ### ...
 <a href="index.html"> Retour à la page principale </a>
