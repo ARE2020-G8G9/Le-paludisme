@@ -71,13 +71,13 @@ SIMULATION 1 (à 80%) :
 
 
  
- SIMULATION 2 (à 20%) :
+SIMULATION 2 (à 20%) :
  
 
  
 
 
-Simulation 3 (à 40 %) :
+SIMULATION 3 (à 40 %) :
 
 
 
