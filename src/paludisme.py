@@ -5,22 +5,29 @@ n =99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice 
 
 infection_moustique = 20#
 
-#pourcent_contamination = 20
+nb_initial_contamine = 20
 
-nb_enfant_moins5ans = 25
-pourcent_moins5ans_deces = 65
+pourcent_contamination = 25
 
-nb_enfant_plus5ans = 46
-pourcent_plus5ans_deces = 45
+nb_enfant_moins5ans = 15
 
-nb_hommes = 14
+pourcent_moins5ans_deces = 61
+
+nb_enfant_plus5ans = 27
+
+pourcent_plus5ans_deces = 65
+
+nb_hommes = 29
+
 pourcent_hommes_deces = 35
 
-nb_femmes = 9
-pourcent_femmes_deces = 35
+nb_femmes = 14.5
 
-nb_femmes_enceinte = 5
-pourcent_femmes_enceintes_deces = 65
+pourcent_femmes_deces = 50
+
+nb_femmes_enceinte = 14.9
+
+pourcent_femmes_enceintes_deces = 40
 def init_contamine(contamine):
     a = randrange(1,99)
     if (a <=  contamine):
