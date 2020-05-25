@@ -11,24 +11,24 @@ pour les femmes enceintes, le mieux que nous avons pu faire c’est trouver plus
 19% de ces morts au Nigeria (OMS)  => 0.19 * 435000 = 82650 morts au Nigeria.  
 Pour taux de contamination :59 cas de paludisme pour 1000 personnes exposées (parmi les pays touchés dans le monde) (OMS) = 0.059 % de contamination (c’est 5x (4,86 plutôt) plus élevé au Nigeria… 0.059*190 000 000 = 11 269 000 cas théoriques contre (1) )
 61% de décès d’enfants de moins de 5 ans ( les plus vulnérables et exposés aux moustiques et les plus touchés) dans le monde (OMS: 266 000 / 435 000 ) => raccourci: 61% des décès au Nigeria sont des enfants -5 ans (au moins, c’est le pays le plus touché!) 
-nb_initial_contamine = 20
+infection_moustique = 20#
 
-pourcent_contamination = 25
+#pourcent_contamination = 20
 
-nb_enfant_moins5ans = 15
-pourcent_moins5ans_deces = 61
+nb_enfant_moins5ans = 25
+pourcent_moins5ans_deces = 65
 
-nb_enfant_plus5ans = 27
-pourcent_plus5ans_deces = 65
+nb_enfant_plus5ans = 46
+pourcent_plus5ans_deces = 45
 
-nb_hommes = 29
+nb_hommes = 14
 pourcent_hommes_deces = 35
 
-nb_femmes = 14.9
-pourcent_femmes_deces = 50
+nb_femmes = 9
+pourcent_femmes_deces = 35
 
-nb_femmes_enceinte = 14.9
-pourcent_femmes_enceintes_deces = 40
+nb_femmes_enceinte = 5
+pourcent_femmes_enceintes_deces = 65
 
 EXPLICATION DE FONCTIONS:
 Init_contamine:
