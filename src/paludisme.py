@@ -1,38 +1,33 @@
-from random import randrange
+﻿from random import randrange
 from numpy import array
-# Tous les nombres qu'on va citer sont en pourcentage (%)
-n = 99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée)
+#TOUS CES CONSTANTES SONT EN POURCENT
+n =99#n est l'indice maximale de la matrice, colonne ou ligne(c'est une matrice carrée) matrice de taille(n+1)(n+1)
 
-nb_initial_contamine = 20
+infection_moustique = 20#
 
-pourcent_contamination = 25
+#pourcent_contamination = 20
 
-nb_enfant_moins5ans = 15
-pourcent_moins5ans_deces = 61
+nb_enfant_moins5ans = 25
+pourcent_moins5ans_deces = 65
 
-nb_enfant_plus5ans = 27
-pourcent_plus5ans_deces = 65
+nb_enfant_plus5ans = 46
+pourcent_plus5ans_deces = 45
 
-nb_hommes = 29
+nb_hommes = 14
 pourcent_hommes_deces = 35
 
-nb_femmes = 14.9
-pourcent_femmes_deces = 50
+nb_femmes = 9
+pourcent_femmes_deces = 35
 
-nb_femmes_enceinte = 14.9
-pourcent_femmes_enceintes_deces = 40
-
-#pour les femmes enceintes, le mieux qu'on a pu faire c’est de trouver plusieurs sources sur le taux de fécondité au Nigeria: en moyenne entre 5 et 6 enfants par femmes au Nigeria donc ca me paraît pas gros de dire que 50 % des femmes (entre 15 et 45 ans donc a peu près 0.5 * 20-25% de la population) au Nigeria sont enceintes.
-
+nb_femmes_enceinte = 5
+pourcent_femmes_enceintes_deces = 65
 def init_contamine(contamine):
     a = randrange(1,99)
     if (a <=  contamine):
-        malade = 'i'
+        malade = 'ai'
     else:
         malade = ''
     return malade
-
-#Init_contamine: En fonction du pourcentage du nombre initial de contamination, la fonction retourne ‘i’ si l’individu est infecté, ‘’ sinon. EXEMPLE : si le nombre initial de contamination est de 20, si le chiffre choisis au hasard est entre 1 et 20, il est contaminé, sinon il ne l’est pas. Comme cela, on obtient bien 20% de chance de contamination.
 
 def init_individus():
     a = randrange(1,100)
@@ -46,8 +41,6 @@ def init_individus():
         return 2
     else :
         return 0
-    
-#Init_individus : Avec la même méthode que précédemment, on choisit l’individu au hasard en fonction des variables initialisées au début.
 
 def generate_world():
 
@@ -63,7 +56,7 @@ def generate_world():
             ind,malade,nb = individus
             ind = init_individus()
 
-            malade = init_contamine(nb_initial_contamine)
+            malade = init_contamine(infection_moustique)
             world.append((ind,malade,nb))
             k = k + 1
 
@@ -71,9 +64,8 @@ def generate_world():
         world_final.append(world)
     return (world_final)
 
-#Generate_world : Permet de générer un une matrice de taille carré de taille n*1 d’individus. Grâce aux fonctions précédentes, on initialise le type d’individu (hommes, femmes …) et s’il est contaminé.
 
-def voisins(x,y,world):
+'''def voisins(x,y,world):
     tab_voisins = []
     if (y == 0):
         if(x==0):
@@ -89,7 +81,7 @@ def voisins(x,y,world):
             tab_voisins.append((x-1,y+1))
             tab_voisins.append((x,y+1))
             tab_voisins.append((x+1,y+1))
-            tab_voisins.append((x+1,y))
+            tab_voisins.append((x+1,y))*/
 
 
     elif(y == n):
@@ -136,12 +128,10 @@ def voisins(x,y,world):
         tab_voisins.append((x-1,y+1))
 
 
-    return tab_voisins
-
-#Voisins : Retourne les coordonnées de tous les voisins d’un individu précis dans la matrice sous forme de liste. Dans ce programme, nous avons supposé que les voisins de l’individu sont ceux situés à une case près de lui, diagonale comprise.
+    return tab_voisins'''
 
 
-def contamination(x,y,world):
+'''def contamination(x,y,world):
     world2 = world
     tab_voisins = voisins(x,y,world2)
     a,infecte,b = world2[y][x]
@@ -164,9 +154,21 @@ def contamination(x,y,world):
 
 
 
-    return world2
+    return world2'''
 
-#Contamination : En fonction d’un individu précis dans la matrice, la fonction vérifie si l’individu est contaminé, s’il l’est il va déterminer s’il va contaminer ses voisins (grâce à la fonction voisin) avec pourcent_contamination comme chance de contamination. Les voisins contaminés ont donc leur variable d’infection qui vaut ‘ai’ (Important pour la fonction, comme ça si elle tombe sur un individu ‘ai’ elle ne testera pas sa contamination, car il vient d’être contaminé).
+def contamination(i,j,world):#ai signifie que l'individu vient d'être contaminé, il ne sera pas pris en compte dans la fonction mortalité,guerison...
+    world2 = world
+
+    a,inf,nb = world2[j][i]
+    if(inf == ""):
+        conta = randrange(1,99)
+        if (conta <=  infection_moustique):
+            inf = 'ai'
+            nb = 0
+        else:
+            inf = ''
+            world2[j][i] = a,inf,nb
+    return world2
 
 def tour_conta(world):
     world2 = world
@@ -177,7 +179,6 @@ def tour_conta(world):
             world2 = contamination(i,j,world2)
     return world2
 
-#Tour_conta : Permet d’exécuter la fonction Contamination sur toute la matrice (sur chaque individus)
 
 def temps_conta(world):
     world2 = world
@@ -188,13 +189,13 @@ def temps_conta(world):
             a,inf,nb = world2[j][i]
             if (inf == 'ai'):
                 inf = 'i'
-            elif (inf == 'i'):
-                nb = nb + 1
+            '''elif (inf == 'i'):
+                nb = nb + 1'''
             world2[j][i] = a,inf,nb
 
     return world2
 
-#Temps_conta : Change les infections de type ‘ai’ en ‘i’
+
 
 def guerison(world):
 
@@ -210,8 +211,6 @@ def guerison(world):
                 world2[j][i] = a,inf,nb
 
     return world2
-
-#Guérison : Si l’individu est infecté depuis plus de 5 semaines, il passe de ‘i’ à ‘guéri’.
 
 def mortalite(world):
 
@@ -242,20 +241,17 @@ def mortalite(world):
 
     return world2
 
-#mortalité : Prends chaque individu, détermine en fonction de son pourcentage de chance de décès s’il meurt. Le pourcentage de chance de décès diminue en fonction des semaines.
-
 def paludisme(world):
 
     world2 = world
     world2 = tour_conta(world2)
-    world2 = temps_conta(world2)
+
     world2 = mortalite(world2)
     world2 = guerison(world2)
+    world2 = temps_conta(world2)
 
 
     return world2
-
-#Paludisme : Fait un tour de la matrice et simule le cas du paludisme grâce aux fonctions crées précédemment.
 
 def fin_paludisme(world):
 
@@ -263,11 +259,10 @@ def fin_paludisme(world):
     for i in range(0,n+1):
         for j in range(0,n+1):
             a,inf,b = world[j][i]
-            if (inf == 'i'):
+            if (inf == 'i' or inf =='ai'):
                 fin = False
     return fin
 
-#Fin_paludisme : Renvoie True si il reste un individu infecté, False sinon.
 
 def tour_paludisme(world):#FONCTION PRINCIPALE : ENTREZ tour_paludisme(generate_world)
     i =0
@@ -279,7 +274,6 @@ def tour_paludisme(world):#FONCTION PRINCIPALE : ENTREZ tour_paludisme(generate_
         i = i + 1
     return (world2)
 
-#Tour_paludisme : Effectue paludisme tant qu’il reste au moins un individu infecté
 
 #--------------------------------------------------------------------------------#
 import matplotlib.pyplot as plt
@@ -305,13 +299,12 @@ def tracer_temps(repetition):#trace une courbe qui montre le nombre de semaines 
     plt.xlabel("X")
     plt.ylabel("Y")
     plt.show()
-    
-#Trace une courbe du nombre de semaines qu’il a fallu pour que la maladie disparaisse. On répète cela un nombre « répétition » de fois, l’abscisse correspond donc au numéro de l’essai.
 
 def compter_mort_guersion_infecte(world):
     mort = 0
     gueri = 0
     infecte = 0
+    pas_infecte = 0
     for i in range(0,n+1):
         for j in range(0,n+1):
             a,inf,nb =world[j][i]
@@ -321,40 +314,41 @@ def compter_mort_guersion_infecte(world):
                 infecte = infecte + 1
             elif(inf == 'gueri'):
                 gueri = gueri + 1
+            elif(inf == ''):
+                pas_infecte= pas_infecte + 1
 
-    return (mort,gueri,infecte)
+    return (mort,gueri,infecte,pas_infecte)
 
 
 def tracer_mort_guerison_infecte(world):
     world2 = world
     tab_mort = [0]
     tab_gueri = [0]
-    tab_inf = []
-    a,b,inf =compter_mort_guersion_infecte(world)
-    tab_inf.append(inf)
+    tab_pas_infecte = [(n+1)*(n+1)]
+    tab_inf = [0]
+    a,b,inf,d =compter_mort_guersion_infecte(world)
+
     temps = [0]
     j = 0
     while(fin_paludisme(world2) == False):
 
             world = paludisme(world)
-            m,g,i = compter_mort_guersion_infecte(world2)
+            m,g,i,p = compter_mort_guersion_infecte(world2)
             tab_mort.append(m)
             tab_gueri.append(g)
             tab_inf.append(i)
+            tab_pas_infecte.append(p)
             j = j +1
             temps.append(j)
+
     plt.plot(temps,tab_mort,label = "MORT")
     plt.plot(temps,tab_gueri,label = "GUERI")
     plt.plot(temps,tab_inf,label = "INFECTE")
+    plt.plot(temps,tab_pas_infecte,label = "PAS_INF")
     plt.xlabel("X")
     plt.ylabel("Y")
     plt.legend()
     plt.show()
-    
-#Tracer_mort_guerison_infecte(world): Trace le nombre de mort, guéris et infectés en fonction de la semaine.
-
-    
-
 
 
 
