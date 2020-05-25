@@ -83,7 +83,7 @@ SIMULATION 2 (à 20%) :
 
 SIMULATION 3 (à 40 %) :
 
-![](image/paludisme40.png)
+![](image/paludisme40.png) 
 
 
 
