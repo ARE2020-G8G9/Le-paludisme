@@ -67,17 +67,23 @@ Puis établir la durée d'éradication par simulation et estimer le nombre de d�
  
 
 SIMULATION 1 (à 80%) :
+
+![](image/paludisme80.png)
  
 
 
  
 SIMULATION 2 (à 20%) :
+
+![](image/paludisme20.png)
  
 
  
 
 
 SIMULATION 3 (à 40 %) :
+
+![](image/paludisme40.png)
 
 
 
